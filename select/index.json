@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "相対性理論に異議を唱える",
+  "base_artist": "乃木坂46",
+  "createdAt": "2026-02-15T13:58:27.669567Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "相対性理論に異議を唱える",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_相対性理論に異議を唱える_Nogizaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "相対性理論に異議を唱える",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_相対性理論に異議を唱える_乃木坂46.txt"
+    }
+  ]
+}
